@@ -1,4 +1,4 @@
-"# dio_transfer_learning_projeto_final" 
+# dio_transfer_learning_projeto_final 
 
 Descrição do Desafio
 Projeto de Transfer Learning em Python
