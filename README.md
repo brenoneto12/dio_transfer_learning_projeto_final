@@ -13,4 +13,4 @@ Para exemplo, utilizaremos o seguinte projeto que realiza Transfer Learning com 
 https://www.microsoft.com/en-us/download/details.aspx?id=54765.
 
 #### Resolução
-Para resolver este desafio utilizei o projeto modelo deste link https://www.tensorflow.org/tutorials/images/transfer_learning Após treinar o modelo exportei o mesmo para poder ser utilizado posteriormente na aplicação final.
+Para conseguir apresentar o desafio precisei usar o link https://www.tensorflow.org/tutorials/images/transfer_learning Exportei o modelo para meu drive e subi no github para ser utilizado posteriormente na aplicação final.
